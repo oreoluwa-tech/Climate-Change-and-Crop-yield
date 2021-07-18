@@ -1,0 +1,37 @@
+Countries,Year,Rainfall
+ Ghana,2010,107.29
+ Ghana,2011,96.74
+ Ghana,2012,100.73
+ Ghana,2013,96.02
+ Ghana,2014,100.19
+ Ghana,2015,88.60
+ Ghana,2016,96.58
+ Ghana,2017,91.44
+ Ghana,2018,105.70
+Kenya,2010,54.21
+Kenya,2011,52.23
+Kenya,2012,65.24
+Kenya,2013,61.70
+Kenya,2014,50.69
+Kenya,2015,64.85
+Kenya,2016,57.22
+Kenya,2017,83.54
+Kenya,2018,67.22
+Nigeria,2010,100.88
+Nigeria,2011,85.38
+Nigeria,2012,100.92
+Nigeria,2013,87.08
+Nigeria,2014,93.13
+Nigeria,2015,86.37
+Nigeria,2016,101.58
+Nigeria,2017,94.28
+Nigeria,2018,100.58
+South Africa,2010,39.46
+South Africa,2011,45.03
+South Africa,2012,38.50
+South Africa,2013,34.98
+South Africa,2014,37.43
+South Africa,2015,30.64
+South Africa,2016,35.25
+South Africa,2017,35.33
+South Africa,2018,31.92
